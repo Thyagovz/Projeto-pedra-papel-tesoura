@@ -8,7 +8,7 @@ function playRockPaperScissor(player1, player2) {
   ) {
     return "Jogador 1 venceu!";
   } else {
-    return "jogador 2 venceu";
+    return "Jogador 2 venceu!";
   }
 }
 const resultado = playRockPaperScissor("Pedra", "Tesoura");
